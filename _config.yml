@@ -2,7 +2,9 @@ title: Reshma Kelkar # your name (or website title) here
 logo: "/images/logo3.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>
+  <br>
   <a href="https://www.linkedin.com/in/reshma-kelkar-71244919/">LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
+<br><br>
 google_analytics: 149789775 # your Google Analytics tracking ID here
