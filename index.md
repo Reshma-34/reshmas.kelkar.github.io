@@ -1,5 +1,4 @@
 ## Data Science Projects
-
 ---
 ### Healthcare
 [WiDS Datathon Challenge 2020](https://github.com/Reshma-34/WiDS-Datathon-2020)
