@@ -4,6 +4,6 @@ description: > # your text below (remove <br> elements if you don't need line br
     I am a master student of analytics at University of Chicago. I have worked as a cancer researcher and data scientist for 6 years. My passion lies in applying data science tools to domains such as healthcare, e-commerce and media.
     <br><br><br>
     <a href="https://www.linkedin.com/in/reshma-kelkar-71244919/">LinkedIn Profile</a> 
-
+<br><br>
 theme: jekyll-theme-minimal
 google_analytics: 149789775 # your Google Analytics tracking ID here
