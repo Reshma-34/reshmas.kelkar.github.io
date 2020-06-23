@@ -25,3 +25,14 @@ Explore the data to uncover insights around impacts of lifestyle on aging and ai
 <img src="images/ageing.jpg?raw=true"/>
 <br>
 ---
+
+---
+
+### Virus Prediction
+[West Nile Virus Prediction](https://github.com/Reshma-34/West-Nile-Virus-Prediction)
+<br>
+Given weather, location, testing, and spraying data, predict when and where different species of mosquitos will test positive for West Nile virus. A more accurate method of predicting outbreaks of West Nile virus in mosquitos will help the City of Chicago and CPHD more efficiently and effectively allocate resources towards preventing transmission of this potentially deadly virus. 
+<br>
+<img src="images/wnv.jpg?raw=true"/>
+<br>
+---
