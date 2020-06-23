@@ -12,7 +12,8 @@ The challenge is to create a model that uses data from the first 24 hours of int
 [Predict Earthquake Damage](https://github.com/Reshma-34/Nepal-Earthquake-Damage)
 <br>
 “Based on aspects of building location and construction, our goal is to predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal”
-<img src="images/nepal.jpg?raw=false"/>
+<br>
+<img src="images/nepal_2.jpg?raw=false"/>
 <br>
 ---
 ### Accent Detection
