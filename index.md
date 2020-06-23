@@ -21,6 +21,7 @@ Based on aspects of building location and construction, our goal is to predict t
 [Effect of Lifestyle on Ageing](https://github.com/Reshma-34/Effect-of-Lifestyle-OnAgeing)
 <br>
 Explore the data to uncover insights around impacts of lifestyle on aging and ailments; specifically, diseases like ‘Arthritis’, ‘Angina’ and ‘Chronic Lung’ conditions. 
+<br>
 <img src="images/ageing.jpg?raw=true"/>
 <br>
 ---
