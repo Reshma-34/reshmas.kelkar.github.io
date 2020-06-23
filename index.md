@@ -13,13 +13,14 @@ The challenge is to create a model that uses data from the first 24 hours of int
 <br>
 Based on aspects of building location and construction, our goal is to predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal.
 <br>
-<img src="images/nepal_2.jpg?raw=false"/>
+<img src="images/nepal_3.jpg?raw=false"/>
 <br>
 ---
 
 ### Lifestyle & Ageing
 [Effect of Lifestyle on Ageing](https://github.com/Reshma-34/Effect-of-Lifestyle-OnAgeing)
+<br>
 Explore the data to uncover insights around impacts of lifestyle on aging and ailments; specifically, diseases like ‘Arthritis’, ‘Angina’ and ‘Chronic Lung’ conditions. 
 <img src="images/ageing.jpg?raw=true"/>
-
+<br>
 ---
