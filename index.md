@@ -38,9 +38,18 @@ Given weather, location, testing, and spraying data, predict when and where diff
 ### Accent Classifier
 [Predict Accent of a Speaker](https://github.com/Reshma-34/Accent-Classifier)
 <br>
-Accented speech poses a major obstacle for speech recognition algorithms. Being able to accurately classify speech accents would enable automatic recognition of the origin and heritage of a speaker. This would allow for robust accent-specific speech recognition systems and is especially desirable for languages with
-multiple distinct dialects. Accent identification also has various other applications such as automated customer assistance routing.
+Accented speech poses a major obstacle for speech recognition algorithms. Being able to accurately classify speech accents would enable automatic recognition of the origin and heritage of a speaker. This would allow for robust accent-specific speech recognition systems and is especially desirable for languages with multiple distinct dialects. 
 <br>
 <img src="images/accent.jpg?raw=true"/>
+<br>
+---
+
+### COVID-19 Open Research Dataset Challenge 
+[Derive meaningful information from the CORD-19 dataset](https://github.com/Reshma-34/Accent-Classifier)
+<br>
+CORD-19 is a resource of over 158,000 scholarly articles, including over 75,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses. This freely available dataset is provided to the global research community to apply recent advances in natural language processing and other AI techniques to generate new insights in support of the ongoing fight against this infectious disease. There is a growing urgency for these approaches because of the rapid acceleration in new coronavirus literature, making it difficult for the medical research community to keep up.
+We are issuing a call to action to the world's artificial intelligence experts to develop text and data mining tools that can help the medical community develop answers to high priority scientific questions. 
+<br>
+<img src="images/covid19.jpg?raw=true"/>
 <br>
 ---
