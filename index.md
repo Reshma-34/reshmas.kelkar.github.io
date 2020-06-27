@@ -47,8 +47,8 @@ Accented speech poses a major obstacle for speech recognition algorithms. Being 
 ### COVID-19 Open Research Dataset Challenge 
 [Derive meaningful information from the CORD-19 dataset](https://github.com/Reshma-34/CORD-19)
 <br>
-CORD-19 is a resource of over 158,000 scholarly articles about COVID-19, SARS-CoV-2, and related coronaviruses. There is a growing urgency for these approaches because of the rapid acceleration in new coronavirus literature, making it difficult for the medical research community to keep up.
-The aim is to develop text and data mining tools that can help the medical community develop answers to high priority scientific questions. 
+CORD-19 is a resource of over 158,000 scholarly articles about COVID-19, SARS-CoV-2 and coronaviruses. There is a growing urgency for these approaches because of the rapid acceleration in new coronavirus literature, making it difficult for the medical research community to keep up.
+The aim is to develop data mining tools that can help the medical community develop answers to high priority scientific questions. 
 <br>
 <img src="images/covid19.jpg?raw=true"/>
 <br>
