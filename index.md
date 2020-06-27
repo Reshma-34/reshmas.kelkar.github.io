@@ -26,13 +26,21 @@ Explore the data to uncover insights around impacts of lifestyle on aging and ai
 <br>
 ---
 
----
-
 ### Virus Prediction
 [West Nile Virus Prediction](https://github.com/Reshma-34/West-Nile-Virus-Prediction)
 <br>
 Given weather, location, testing, and spraying data, predict when and where different species of mosquitos will test positive for West Nile virus (WNV). Predicting outbreaks of WNV in mosquitos will help the City of Chicago and CPHD more efficiently and effectively allocate resources towards preventing transmission of this potentially deadly virus. 
 <br>
 <img src="images/wnv.jpg?raw=true"/>
+<br>
+---
+
+### Accent Classifier
+[Predict Accent of a Speaker](https://github.com/Reshma-34/Accent-Classifier)
+<br>
+Accented speech poses a major obstacle for speech recognition algorithms. Being able to accurately classify speech accents would enable automatic recognition of the origin and heritage of a speaker. This would allow for robust accent-specific speech recognition systems and is especially desirable for languages with
+multiple distinct dialects. Accent identification also has various other applications such as automated customer assistance routing.
+<br>
+<img src="images/accent.jpg?raw=true"/>
 <br>
 ---
