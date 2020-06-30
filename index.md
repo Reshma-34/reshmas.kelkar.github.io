@@ -1,15 +1,11 @@
 ## Data Science Projects
 
 [**Predict Accent of a Speaker**](https://github.com/Reshma-34/Accent-Classifier)
+<img src="images/accent.jpg?raw=true"/>
 <br>
 Speech Recognition | Deep Learning (CNN, BLSTM)
 <br>
 Accented speech poses a major obstacle for speech recognition algorithms. Being able to accurately classify speech accents would enable automatic recognition of the origin and heritage of a speaker. This would allow for robust accent-specific speech recognition systems and is especially desirable for languages with multiple distinct dialects. 
-<br>
-
-[**Predict Accent of a Speaker**] | (https://github.com/Reshma-34/Accent-Classifier)
------------- | -------------
-<img src="images/accent.jpg?raw=true"/> | Accented speech poses a major obstacle for speech recognition algorithms. Being able to accurately classify speech accents would enable automatic recognition of the origin and heritage of a speaker. This would allow for robust accent-specific speech recognition systems and is especially desirable for languages with multiple distinct dialects. 
 <br>
 
 [Derive meaningful information from the CORD-19 dataset](https://github.com/Reshma-34/CORD-19)
