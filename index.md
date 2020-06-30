@@ -2,9 +2,8 @@
 
 [**Predict Accent of a Speaker**](https://github.com/Reshma-34/Accent-Classifier)
 <br>
-![<img src="images/accent.jpg?raw=true"/>](https://github.com/Reshma-34/Accent-Classifier)
+<img src="images/accent.jpg?raw=true"/>
 Speech Recognition | Deep Learning (CNN, BLSTM)
-<br>
 <br>
 Accented speech poses a major obstacle for speech recognition algorithms. Being able to accurately classify speech accents would enable automatic recognition of the origin and heritage of a speaker. This would allow for robust accent-specific speech recognition systems and is especially desirable for languages with multiple distinct dialects. 
 <br>
