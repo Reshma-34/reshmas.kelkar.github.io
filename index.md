@@ -3,6 +3,7 @@
 [Predict Accent of a Speaker](https://github.com/Reshma-34/Accent-Classifier)
 <br>
 _Speech Recognition: CNN, BLSTM_
+<br>
 Accented speech poses a major obstacle for speech recognition algorithms. Being able to accurately classify speech accents would enable automatic recognition of the origin and heritage of a speaker. This would allow for robust accent-specific speech recognition systems and is especially desirable for languages with multiple distinct dialects. 
 <br>
 <img src="images/accent.jpg?raw=true"/>
@@ -10,7 +11,8 @@ Accented speech poses a major obstacle for speech recognition algorithms. Being 
 
 [Derive meaningful information from the CORD-19 dataset](https://github.com/Reshma-34/CORD-19)
 <br>
-_Text Mining_: NLP - SciSpacy, Topic Modelling 
+_Text Mining: NLP - SciSpacy, Topic Modelling_
+<br> 
 CORD-19 is a resource of over 158,000 scholarly articles about COVID-19, SARS-CoV-2 and coronaviruses. There is a growing urgency for these approaches because of the rapid acceleration in new coronavirus literature, making it difficult for the medical research community to keep up.
 The aim is to develop data mining tools that can help the medical community develop answers to high priority scientific questions. 
 <br>
