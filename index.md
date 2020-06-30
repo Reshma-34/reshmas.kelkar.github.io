@@ -1,6 +1,7 @@
 ## Data Science Projects
 
 [**Predict Accent of a Speaker**](https://github.com/Reshma-34/Accent-Classifier)
+<br>
 <img src="images/accent.jpg?raw=true"/>
 <br>
 Speech Recognition | Deep Learning (CNN, BLSTM)
