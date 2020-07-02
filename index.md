@@ -20,6 +20,7 @@ The aim is to develop data mining tools that can help the medical community deve
 <br>
 
 [WiDS Datathon Challenge 2020](https://github.com/Reshma-34/WiDS-Datathon-2020)
+<br>
 _Healthcare Analytics | LightGBM_
 The challenge is to create a model that uses data from the first 24 hours of intensive care to predict patient survival. MIT's GOSSIS community initiative, has provided a dataset of more than 130,000 hospital Intensive Care Unit (ICU) visits from patients, spanning a one-year timeframe.
 <br>
@@ -34,6 +35,7 @@ Based on aspects of building location and construction, our goal is to predict t
 <br>
 
 [Effect of Lifestyle on Ageing](https://github.com/Reshma-34/Effect-of-Lifestyle-OnAgeing)
+<br>
 _Healthcare Analytics | Random Forest, Gradient Boosting_
 Explore the data to uncover insights around impacts of lifestyle on aging and ailments; specifically, diseases like ‘Arthritis’, ‘Angina’ and ‘Chronic Lung’ conditions. 
 <br>
@@ -42,6 +44,7 @@ Explore the data to uncover insights around impacts of lifestyle on aging and ai
 
 
 [West Nile Virus Prediction](https://github.com/Reshma-34/West-Nile-Virus-Prediction)
+<br>
 _Healthcare Analytics | XGBoost, Random Forest, Stacked Model_
 Given weather, location, testing, and spraying data, predict when and where different species of mosquitos will test positive for West Nile virus (WNV). Predicting outbreaks of WNV in mosquitos will help the City of Chicago and CPHD more efficiently and effectively allocate resources towards preventing transmission of this potentially deadly virus. 
 <br>
