@@ -4,7 +4,7 @@
 <br>
 _Speech Recognition | Deep Learning (CNN, BLSTM)_
 <br>
-Accented speech poses a major obstacle for speech recognition algorithms. Being able to accurately classify speech accents would enable automatic recognition of the origin and heritage of a speaker. This would allow for robust accent-specific speech recognition systems and is especially desirable for languages with multiple distinct dialects. 
+Accented speech poses a major obstacle for automatic speech recognition algorithms. In this project, we built an accent classifier on top 5 accents of common voice mozilla dataset using deep learning models.
 <br>
 <img src="images/accent.jpg?raw=true"/>
 <br>
@@ -21,7 +21,7 @@ The aim is to develop data mining tools that can help the medical community deve
 
 [WiDS Datathon Challenge 2020](https://github.com/Reshma-34/WiDS-Datathon-2020)
 <br>
-_Healthcare Analytics | LightGBM_
+_Healthcare Analytics | Tree Ensemble(LightGBM_)
 <br>
 The challenge is to create a model that uses data from the first 24 hours of intensive care to predict patient survival. MIT's GOSSIS community initiative, has provided a dataset of more than 130,000 hospital Intensive Care Unit (ICU) visits from patients, spanning a one-year timeframe.
 <br>
