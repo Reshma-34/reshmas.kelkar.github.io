@@ -4,8 +4,8 @@
 <br>
 _Sales Forecasting | Timeseries (ARIMAX, LSTM)_
 <br>
-Walmart's hierarchical sales data for three US states (California, Texas, Wisconsin) is used to forecast daily sales for the next 28 days. Accuracy in forecasting is important as setting up appropriate inventory or service levels.
-The data was item level, department, product categories, and store details. I used traditional statistical methods as well as machine learning algorithm. Finally combination of both statistical and ML model helped to improve forecasting accuracy. 
+Walmart's hierarchical sales data for three US states (CA, TX, WI) is used to forecast daily sales for the next 28 days. Forecasting accuracy is important for appropriate inventory or service levels.
+I used traditional statistical as well as ML algorithm. Finally combination of both statistical and ML model helped to improve forecasting accuracy. 
 <br>
 <br>
 <img src="images/timeseries.jpg?raw=true"/>
