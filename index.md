@@ -1,5 +1,15 @@
 ## Data Science Projects
 
+[Forecast Daily Department Sales of Walmart Stores](https://github.com/Reshma-34/Walmart-stores-sales-forcasting)
+<br>
+_Sales Forecasting | Timeseries (ARIMAX, LSTM)_
+<br>
+Accented speech poses a major obstacle for automatic speech recognition algorithms. In this project, we built an accent classifier on top 5 accents of common voice mozilla dataset using deep learning models.
+<br>
+<br>
+<img src="images/timeseries.jpg?raw=true"/>
+<br>
+
 [Predict Accent of a Speaker](https://github.com/Reshma-34/Accent-Classifier)
 <br>
 _Speech Recognition | Deep Learning (CNN, BLSTM)_
