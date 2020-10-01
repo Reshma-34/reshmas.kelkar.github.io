@@ -1,10 +1,11 @@
 ## Data Science Projects
 
-[Forecast Daily Department Sales of Walmart Stores](https://github.com/Reshma-34/Walmart-stores-sales-forcasting)
+[Forecast Daily Department Sales of Walmart Stores](https://github.com/Reshma-34/Walmart-Daily-Sales-Forecasting)
 <br>
 _Sales Forecasting | Timeseries (ARIMAX, LSTM)_
 <br>
-Accented speech poses a major obstacle for automatic speech recognition algorithms. In this project, we built an accent classifier on top 5 accents of common voice mozilla dataset using deep learning models.
+Walmart's hierarchical sales data for three US states (California, Texas, Wisconsin) is used to forecast daily sales for the next 28 days. Accuracy in forecasting is important as setting up appropriate inventory or service levels.
+The data was item level, department, product categories, and store details. I used traditional statistical methods as well as machine learning algorithm. Finally combination of both statistical and ML model helped to improve forecasting accuracy. 
 <br>
 <br>
 <img src="images/timeseries.jpg?raw=true"/>
